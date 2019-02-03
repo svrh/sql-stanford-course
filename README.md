@@ -1,2 +1,2 @@
-# sqlite
-SQLite Query Exercises for the Stanford University SQL course
+# SQL
+SQL Query Exercises for the Stanford University SQL course
